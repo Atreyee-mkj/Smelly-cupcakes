@@ -58,4 +58,15 @@ button:hover {
   background-color: #ff85c1;
   transform: scale(1.05);
 }
+nav a {
+  text-decoration: none;
+  color: #ff69b4;
+  font-weight: bold;
+  padding: 5px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
 
